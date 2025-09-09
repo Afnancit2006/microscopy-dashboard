@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/microscopy-dashboard/static/css/main.b5c8b39b.css",
-    "main.js": "/microscopy-dashboard/static/js/main.ef2849eb.js",
+    "main.js": "/microscopy-dashboard/static/js/main.3b98d779.js",
     "index.html": "/microscopy-dashboard/index.html",
     "main.b5c8b39b.css.map": "/microscopy-dashboard/static/css/main.b5c8b39b.css.map",
-    "main.ef2849eb.js.map": "/microscopy-dashboard/static/js/main.ef2849eb.js.map"
+    "main.3b98d779.js.map": "/microscopy-dashboard/static/js/main.3b98d779.js.map"
   },
   "entrypoints": [
     "static/css/main.b5c8b39b.css",
-    "static/js/main.ef2849eb.js"
+    "static/js/main.3b98d779.js"
   ]
 }
